@@ -31,7 +31,7 @@
     .top-nav 		 			{max-width:960px; height:50px; text-align: left; font-size: 12pt; font-weight: 100;}
 
     .logo-bindni					{float:left; padding-right: 30px;} 
-		.logo-bindni a 			{background:url(../images/mm-bindni-logo.png) 0 0 no-repeat; width: 250px; height: 50px;outline: none; display: block; }
+		.logo-bindni a 			{background:url(../images/mm-bindni-logo.png) 0 0 no-repeat; width: 150px; height: 50px;outline: none; display: block; }
 		.logo-bindni a:hover		{}
 		.logo-bindni a.active		{}
 
